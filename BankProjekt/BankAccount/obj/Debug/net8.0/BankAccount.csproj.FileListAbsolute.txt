@@ -1,0 +1,14 @@
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\bin\Debug\net8.0\BankAccount.exe
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\bin\Debug\net8.0\BankAccount.deps.json
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\bin\Debug\net8.0\BankAccount.dll
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\bin\Debug\net8.0\BankAccount.pdb
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\obj\Debug\net8.0\BankAccount.dll
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\obj\Debug\net8.0\refint\BankAccount.dll
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\obj\Debug\net8.0\BankAccount.pdb
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+C:\Users\atife\Downloads\BankProjekt (1)\BankProjekt\BankAccount\obj\Debug\net8.0\ref\BankAccount.dll
